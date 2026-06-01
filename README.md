@@ -1,5 +1,7 @@
 # 🖥️ Koch IT Purchase Order Management System
 
+![VB.NET](https://img.shields.io/badge/VB.NET-Desktop%20Application-blue) ![Windows Forms](https://img.shields.io/badge/Windows%20Forms-UI-purple) ![Azure SQL](https://img.shields.io/badge/Azure%20SQL-Database-blue) ![Email Notifications](https://img.shields.io/badge/Email-Automation-green) ![Capstone Project](https://img.shields.io/badge/Kansas%20State-Capstone-success)
+
 A Visual Basic .NET desktop application developed as part of a capstone project for Koch Inc. to streamline IT equipment purchase requests, approvals, and fulfillment workflows.
 
 ---
