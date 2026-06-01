@@ -62,7 +62,7 @@ Secure user login interface.
 
 ### 🧭 Navigation Dashboard
 
-![Navigation Dashboard](Screenshots/navigation-pane.png)
+![Navigation Dashboard](Screenshots/navigation.png)
 
 Central navigation hub for accessing application features.
 
